@@ -3,6 +3,9 @@
     margin: 0;
     padding: 0;
 }
+html{
+    scroll-behavior: smooth;
+}
 
 /* CSS variables */
 :root{
@@ -87,6 +90,7 @@
     display: flex;
 }
 #services .box {
+    /* border: 2px solid red; */
     padding: 18px;
     margin: 5px;
     border-radius: 12px;
@@ -97,6 +101,9 @@
     margin:auto;
     height: 100px;
 }
+/* #services .box {
+    border: 2px solid black;
+} */
 
 /* Client section */
 .clients{
