@@ -87,7 +87,6 @@
     display: flex;
 }
 #services .box {
-    border: 2px solid red;
     padding: 18px;
     margin: 5px;
     border-radius: 12px;
@@ -97,9 +96,6 @@
     display: block;   /*display bock is required in order to use margin auto, as img is an inline object*/
     margin:auto;
     height: 100px;
-}
-#services .box {
-    border: 2px solid red;
 }
 
 /* Client section */
