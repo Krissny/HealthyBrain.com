@@ -13,9 +13,9 @@
 }
 
 /* HomeSection */
-#home{
+#home {
     height: 280px;
-    padding: 20px 98px;
+    padding: 53px 71px;
 }
 #home::before{
     height: 370px;
