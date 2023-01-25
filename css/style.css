@@ -15,7 +15,8 @@ html{
 #navbar{
     display: flex;
     align-items: center;
-    position: relative;
+    position: sticky;
+    top: 0;
 }
 #navbar::before{
     content: "";
