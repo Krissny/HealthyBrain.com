@@ -6,7 +6,7 @@
     flex-direction: column;
 }
 #navbar ul li {
-    font-size: 1.1rem;
+    font-size: 14px;
 }
 #navbar ul li a {
     padding: 3px 9px;
