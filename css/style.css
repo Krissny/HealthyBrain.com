@@ -66,7 +66,7 @@ html{
 /* Home section */
 #home::before{
     content: "";
-    background:url("../bg2.png") no-repeat center center/cover; /*here we use "../" as we are in css folder and we need to get out of it to use the image*/
+    background:url('../img/bg2.png') no-repeat center center/cover; /*here we use "../" as we are in css folder and we need to get out of it to use the image*/
     position: absolute;
     height: 66%;
     width: 100%;
